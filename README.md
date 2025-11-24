@@ -1,5 +1,5 @@
-# ZNC Autopost Module
-**Autopost Module for ZNC**  
+# ZNC Autopost // Automsg Module
+**Autopost // Automsg Module for ZNC**  
 Send scheduled messages to channels or PMs. Supports one-time, specific days, and daily tasks.
 
 ---
