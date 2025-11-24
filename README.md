@@ -169,7 +169,6 @@ days should be capitalized English day abbreviations (Mon,Tue,Wed,Thu,Fri,Sat,Su
 ---
 
 ## 📃 License
-```
+
 Licensed under the [Apache License 2.0](https://github.com/CodeVaultX/znc-autopost/blob/main/LICENSE).
-```
 ---
